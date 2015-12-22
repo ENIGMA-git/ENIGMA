@@ -4,7 +4,7 @@
 # * ENIGMA_DTI 2014.
 # */
 
-version=20151218
+version=20151222
 
 ######## SH INPUTS #############
 run_merlin=${1}

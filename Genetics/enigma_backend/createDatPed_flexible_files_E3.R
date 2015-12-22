@@ -26,6 +26,8 @@
 
 options(stringsAsFactors = FALSE)
 
+versionDate=20151222
+
 # Output files will include .dat and .ped files with all necessary covariates
 # standard covariates include age, sex, age^2, age-x-sex, age^2-x-sex, and 4 MDS components
 ###### sex and interaction terms not included if single-sex study
@@ -133,6 +135,8 @@ if (Ldups > 0){
 }
 
 numsubjects = length(merged_temp$IID);
+
+writeLines(paste0('VERSION: ',substr(versionDate,5,6),'/',substr(versionDate,7,8),'/',substr(versionDate,0,4)),con=zz,sep="\n")
 
 ### if no related individuals, create dummy paternal and maternal IDs
 # otherwise break to make sure these are entered

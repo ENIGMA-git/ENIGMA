@@ -4,7 +4,7 @@
 # * ENIGMA_DTI 2014.
 # */
 
-version=20151218
+version=20151222
 
 ######## SH INPUTS #############
 run_machdir=${1}  #give the directory to the imputed output from Mach/minimac
