@@ -26,4 +26,8 @@ The ENIGMA Working Groups repository is being updated
 The ENIGMA GCLUST repository is being updated 
 [here](https://github.com/ENIGMA-git/GCLUST).
 
+Linked below are ENIGMA Consortium resources made available for chairs & members:
+1. [Template Memorandum of Understanding (updated April 2021)](https://docs.google.com/document/d/10OWVnNSk54L3LsleurjHi99530IrvFBd)
+2. [Template Secondary Proposal Form (Updated 2020)](https://docs.google.com/document/d/10c3Atdmpl7NayiFhbC_fRbmB1QMd-JuW)
+
 Read more about Enigma [here](http://enigma.ini.usc.edu/).
